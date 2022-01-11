@@ -15,7 +15,7 @@ You shall first build the kernel, e.g., using
 
 	make bootimages
 
-in the main repo of Nuclei SDK.
+in the main repo of Nuclei Linux SDK.
 
 Then, copy the linux-deps/module.lds into work/demosoc/linux/scripts/
 
